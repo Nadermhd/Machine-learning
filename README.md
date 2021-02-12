@@ -1,2 +1,2 @@
 # Machine-learning
-Different code variation of deep learning models 
+Different code variations of deep learning models 

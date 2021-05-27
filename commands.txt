@@ -1,0 +1,8 @@
+https://github.com/Nadermhd/Machine-learning/tree/master
+
+git init
+git add .
+git commit -m ''
+git remote add origin https://github.com/Nadermhd/Machine-learning/tree/master
+git push origin master
+
